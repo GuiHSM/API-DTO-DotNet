@@ -1,0 +1,56 @@
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.csproj.AssemblyReference.cache
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.AssemblyInfoInputs.cache
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.AssemblyInfo.cs
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.csproj.CoreCompileInputs.cache
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.MvcApplicationPartsAssemblyInfo.cs
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.MvcApplicationPartsAssemblyInfo.cache
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\appsettings.Development.json
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\appsettings.json
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\API dotnet.exe
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\API dotnet.deps.json
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\API dotnet.runtimeconfig.json
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\API dotnet.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\API dotnet.pdb
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\MySql.Data.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\ZstdNet.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\MySqlConnector.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tudo\GitHub\API dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets\msbuild.API dotnet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.API dotnet.props
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API dotnet.props
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API dotnet.props
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets.build.json
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\staticwebassets.development.json
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\scopedcss\bundle\API dotnet.styles.css
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.csproj.CopyComplete
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.dll
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\refint\API dotnet.dll
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.pdb
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\API dotnet.genruntimeconfig.cache
+D:\Tudo\GitHub\API dotnet\obj\Debug\net7.0\ref\API dotnet.dll
